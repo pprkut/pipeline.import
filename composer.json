@@ -1,5 +1,5 @@
 {
-  "name": "pipeline/import",
+  "name": "pipeline-etl/import",
   "description": "Pipeline.Import is a module for loading data into a system",
   "keywords": [ "pipeline-etl", "data import", "ETL" ],
   "homepage": "https://github.com/pipeline-etl/pipeline.import",
